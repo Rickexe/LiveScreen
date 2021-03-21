@@ -26,10 +26,10 @@ define('WP_SITEURL','http://localhost:4022');
 define('DB_NAME','livescreen');
 
 /** MySQL database username */
-define('DB_USER','root');
+define('DB_USER','rick');
 
 /** MySQL database password */
-define('DB_PASSWORD','');
+define('DB_PASSWORD','admin');
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
