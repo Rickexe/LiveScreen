@@ -20,8 +20,8 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('WP_HOME','http://localhost:4022');
-define('WP_SITEURL','http://localhost:4022');
+define('WP_HOME','http://localhost:4548');
+define('WP_SITEURL','http://localhost:4548');
 
 define('DB_NAME','livescreen');
 
